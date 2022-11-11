@@ -1,0 +1,32 @@
+@import '../../styles/_var';
+.header {
+  background-color: @color_background_dark;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 20px;
+  h3 {
+    color: @color_white;
+  }
+  .logo {
+    h1 {
+      color: @color_white;
+    }
+  }
+  .info {
+    display: flex;
+    align-items: center;
+    .avatar {
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      background-color: @color_gray;
+      margin-right: 16px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: @color_white;
+    }
+  }
+}
