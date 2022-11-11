@@ -116,10 +116,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chinhpro2k/thi-online-electron-antd"
+    "url": "https://github.com/chinhpro2k/thi-online-base-app"
   },
   "bugs": {
-    "url": "https://github.com/chinhpro2k/thi-online-electron-antd/issues"
+    "url": "https://github.com/chinhpro2k/thi-online-base-app/issues"
   },
-  "homepage": "https://github.com/chinhpro2k/thi-online-electron-antd#readme"
+  "homepage": "https://github.com/chinhpro2k/thi-online-base-app#readme"
 }
